@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# khanacademy:
+                        http://ogp.me/ns/apps/khanacademy#">
+
+    <script>
+        window.__HEADERS__ = {
+            "X-KA-has-any-permissions": "true",
+            "X-KA-is-phantom": "false",
+            "X-KA-Published-Content-Version": "ed8de907803e713f733c7c641df9fd0c24495761",
+            "X-KA-Lang": "en",
+            "X-KA-is-e2e": "false",
+            "X-KA-is-ios": "false",
+            "X-KA-may-be-under13": "false",
+            "X-KA-Static-Version": "210325-0758-3e957cfb73fd",
+            "X-KA-is-tablet": "false",
+            "X-KA-is-phone": "false",
+            "X-Fastly-Country": "US",
+            "X-KA-Locale-Status": null,
+            "X-KA-is-unsupported-browser": "false",
+            "X-KA-Curriculum": "us-cc",
+            "X-KA-Locale": "en"
+        };
+    </script>
+
+    <script>
+        window.ga = window.ga || function() {
+            (ga.q = ga.q || []).push(arguments)
+        };
+        ga.l = +new Date;
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WSX5PBP');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <title>Something</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <meta name="description" content="Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere."/>
+
+    <link rel="canonical" href="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5396058140606464">
+
+    <meta name="robots" content="noindex">
+
+    <meta property="fb:app_id" content="160249463991765"/>
+    <meta property="fb:admins" content="100000121497109,1305017,100001572496923"/>
+    <meta property="og:site_name" content="Khan Academy"/>
+
+    <meta property="og:type" content="non_profit"/>
+    <meta property="og:title" content="Spin-off of &#34;Project: Travel webpage&#34;"/>
+    <meta property="og:url" content="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5396058140606464">
+    <meta property="og:image" content="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5396058140606464/5694639155707904.png"/>
+    <meta property="fb:page_id" content="159403248441"/>
+
+    <meta name="twitter:site" content="@khanacademy"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+
+    <meta name="twitter:card" content="photo">
+    <meta name="twitter:url" content="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5396058140606464">
+    <meta name="twitter:title" content="Spin-off of &#34;Project: Travel webpage&#34;">
+    <meta name="twitter:image" content="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5396058140606464/5694639155707904.png">
+    <meta name="twitter:image:width" content="400">
+    <meta name="twitter:image:height" content="400">
+
+    <link rel="shortcut icon" href="/favicon.ico?logo">
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.kastatic.org/images/apple-touch-icon-57x57-precomposed.new.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.new.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.kastatic.org/images/apple-touch-icon-114x114-precomposed.new.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn.kastatic.org/images/apple-touch-icon-144x144-precomposed.new.png"/>
+
+    <script>
+    window.__PAGE_SETTINGS__ = {
+        "qualaroo": false
+    };
+    </script>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/ef51404934aee86faaf2654970b8b466.8a0c900dea70545b1d37.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/d74fa7edd4bb07312a32a5a5292d2978.f7f2a30ec23219757282.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/3cedc17addf2051345adeaba174f80e5.93b27a5c85300a53dac0.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/d5bfae7e2ac485a9af5cbb3126b36506.7858c290e2097da6fa92.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/6129e3f75e0e1f0a87f9c41514cbfc3c.e5fc51c0815927158700.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/e780c9a476358fb609b0dc36a114f770.c13ee8998408c887d425.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/0c26ece843f0c6cb594109cdc9d4b3cc.51f3171588ef3bbae4ce.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/63081905aa191f9d22ff4605cf04d963.6c6416ace108b66f4e47.css'>
+
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/dc4f1cea1e731c1f7f8e0ff07b58da2b.69382717d61260baf400.css'>
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/stylesheets/intro-package/intro.d89adee616ac111cde38.css'>
+
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/6a52e4ec324b6b1796e5f1abca6760e0.e08be2fdde4e5cf8e80b.css'>
+
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/5daa4cec15a86c56bcd0f1d273b45483.1630f8dcb48849cb488d.css'>
+
+    <style>
+    #page_sub_nav {
+        display: none;
+    }
+    </style>
+
+
+
+
+
+    <title>Execution Environment</title>
+
+    <script>
+    window.__HEADERS__ = {
+        "X-KA-has-any-permissions": "",
+        "X-KA-is-phantom": "",
+        "X-KA-Published-Content-Version": "ed8de907803e713f733c7c641df9fd0c24495761",
+        "X-KA-Lang": "en",
+        "X-KA-is-e2e": "false",
+        "X-KA-is-ios": "false",
+        "X-KA-may-be-under13": "",
+        "X-KA-Static-Version": "210325-0758-3e957cfb73fd",
+        "X-KA-is-tablet": "false",
+        "X-KA-is-phone": "false",
+        "X-Fastly-Country": "US",
+        "X-KA-Locale-Status": null,
+        "X-KA-is-unsupported-browser": "false",
+        "X-KA-Curriculum": "us-cc",
+        "X-KA-Locale": "en"
+    };
+    </script>
+
+    <link rel='stylesheet' type='text/css' href='https://cdn.kastatic.org/genwebpack/prod/en/stylesheets/scratchpads-exec-package/scratchpads-exec.821f55994e62be8390ab.css'>
+
+
+
+
+</head>
+
+
+
+<body class="lang-en ">
+
+    <div class="external-styles-missing" style='
+            background: #f2dede;
+            font: 14px "Helvetica Neue", Arial, Helvetica;
+            margin-bottom: 40px;
+            padding: 10px 20px;
+        '>
+        <p>If you&#39;re seeing this message, it means we&#39;re having trouble loading external resources on our website.</p>
+        <p>
+
+                        
+                        If you're behind a web filter, please make sure that the domains 
+            <strong>*.kastatic.org</strong>
+             and 
+            <strong>*.kasandbox.org</strong>
+             are unblocked.
+                        
+            <span id="inaccurate-clock-warning"></span>
+
+        </p>
+    </div>
+    <div id="outer-wrapper" style="position:relative;z-index:0;" class="clearfix bibliotron-header 
+
+        white-outer-wrapper
+
+    ">
+
+        <div id="top-header-container"></div>
+
+        <nav id="page_sub_nav" class="clearfix athena-big-menu">
+
+            <b></b>
+
+        </nav>
+
+        <span id="main-content" class="sr-only" tabindex="-1">Main content</span>
+
+        <div id="page-container" class="full-bleed" role="main">
+            <div id="page-container-inner">
+
+                <div id="fb-root"></div>
+                <noscript>
+                    <div class="noscript-warning">
+                        <p>
+                            <i class="icon-warning-sign"></i>
+                             To log in and use all the features of Khan Academy, please enable JavaScript in your browser.
+                        </p>
+                    </div>
+                </noscript>
+
+                <div class="box-sizing-border-box-reset">
+                    <div id="tutorial-content"></div>
+                </div>
+
+            </div>
+        </div>
+
+        <script>
+        window["./javascript/page-template-package/infra-entry.js"] = {}
+        </script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/runtime.ce354dc5038657eba58b.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/corelibs.7abb5c370bb1f53c8598.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/webpack-dev.7441da12889989fe398a.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/shared-intl.8c5a65b12b5272b3d8e4.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/shared.2ee584ede902f28c2a85.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/vendors~./javascript/about-package/internet-essentials-entry~./javascript/app-shell-package/app-entr~a9f8d42f.9388a7c3adf894bde5d2.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/vendors~./javascript/app-shell-package/app-entry~./javascript/bigbingo-dashboard-package/bigbingo-da~c9fd8119.f9f8ba22973a8bd237e4.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/app-shell-package/app-entry~./javascript/bigbingo-dashboard-package/bigbingo-dashboard-~4efe73e3.743188ad1c7deae40724.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/e60f8ba46d780a1df403cf97b3e1c45e.8e3295b2ebd6f7a58927.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/d1ace8bff5da0cf37d4d37850b6e3ba8.cd14fd9b8d2b62ec42ac.js'></script>
+        <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/page-template-package/infra-entry.88006a1483b3b6e6d569.js'></script>
+
+        <div id="footer"></div>
+
+    </div>
+
+    <script>
+    window["./javascript/page-package/footer-entry.js"] = {
+        "dataCache": null,
+        "initialState": null,
+        "isRehydrate": false,
+        "props": {},
+        "styleClassNames": []
+    }
+    </script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/shared-components.15a11dd6e3abd290efe4.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/wonder-blocks.624d761715423f554514.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/e998fe2ded6d0b3626dd430891cc0f28.2317b73595c3e488d048.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/c129560ee926394a7f3acae7517fa239.4b98f665fa12ac1e35cd.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/1dc16803c489ac79786951b2f0f75a77.9fc9c145222103ce6631.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/61564dd45b4a0c6e96a4abf4af601fd0.7850d0278f693453fe92.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/5da69311e52e1a4cf1c8faa5e0f2182a.96098af3d6f5902285d6.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/app-shell-package/app-entry~./javascript/bigbingo-dashboard-package/bigbingo-dashboard-~a02af8a8.43c62deeca4b533653ea.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/page-package/footer-entry.5ed68d7a197b32ee14c0.js'></script>
+    <script>
+    window["./javascript/tutorial-scratchpad-package/scratchpad-page-entry.js"] = {
+        "dataCache": null,
+        "initialState": null,
+        "isRehydrate": false,
+        "props": {
+            "ancestorFeedbackType": "",
+            "breadcrumbs": [{
+                "href": "/computing/computer-programming",
+                "title": "Computer programming"
+            }],
+            "domain": "computing",
+            "embedded": false,
+            "scratchpad": {
+                "TRANSLATED_CATEGORIES": ["documentation"],
+                "byChild": false,
+                "canvasOnly": false,
+                "category": null,
+                "changedAnything": true,
+                "contentKind": "Scratchpad",
+                "contentKindCode": "p",
+                "created": "2018-05-08T21:55:40Z",
+                "date": "2018-08-27T21:22:56Z",
+                "defaultUrlPath": null,
+                "definitelyNotSpam": false,
+                "description": "",
+                "difficulty": -1,
+                "docsUrlPath": "/computer-programming/webpage-documentation",
+                "editSlug": "edit/p/spin-off-of-project-travel-webpage",
+                "flags": [],
+                "forkedFromTopic": "intro-to-css",
+                "hasCustomThumbnail": true,
+                "height": 400,
+                "hideFromHotlist": false,
+                "id": 5396058140606464,
+                "imagePath": "/computer-programming/spin-off-of-project-travel-webpage/5396058140606464/5694639155707904.png",
+                "imageUrl": "https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5396058140606464/5694639155707904.png",
+                "isChallenge": false,
+                "isDocumentation": false,
+                "isFlagged": false,
+                "isFlaggedForAbuse": false,
+                "isHiddenByFlags": false,
+                "isHighlyFlagged": false,
+                "isProject": false,
+                "isProjectOrFork": true,
+                "isPublished": false,
+                "isSpinOff": true,
+                "isTutorial": false,
+                "isUserProgram": true,
+                "kaid": "kaid_862703415184077457346988",
+                "key": "ag5zfmtoYW4tYWNhZGVteXIXCxIKU2NyYXRjaHBhZBiAgKKF-_XKCQw",
+                "kind": "Scratchpad",
+                "kindName": "Scratchpad",
+                "latestRevisionKey": "ag5zfmtoYW4tYWNhZGVteXI2CxIKU2NyYXRjaHBhZBiAgKKF-_XKCQwLEhJTY3JhdGNocGFkUmV2aXNpb24YgICAgOjnjgoM",
+                "modifiedDatetime": "2018-08-27T21:22:56Z",
+                "newUrlPath": "/computer-programming/new/webpage",
+                "nextSteps": null,
+                "nodeSlug": "p/spin-off-of-project-travel-webpage",
+                "nodeType": "scratchpad",
+                "originIsProject": true,
+                "originRevisionId": 5717271485874176,
+                "originScratchpadId": 5255589914738688,
+                "originSimilarity": 0.08626056024899956,
+                "relativeUrl": "/computer-programming/spin-off-of-project-travel-webpage/5396058140606464",
+                "revision": {
+                    "audioId": null,
+                    "code": "<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset=\"utf-8\">\n        <title>Star Wars: Episode 9 Planet List!<\/title>\n        <style>\n            body{\n                background-color:rgb(0, 0, 0);\n                color:yellow;\n                text-shadow: 0px 0px 20px yellow;\n            }\n        <\/style>\n    <\/head>\n    <body>\n    \n        <h1>Travel to Star Wars:Episode 9<\/h1>\n        \n        <h2>Planets to visit:<\/h2>\n        <ul>\n<a href=\"#Dantooine\"><li><button>Dantooine<\/button><\/li><\/a>        <a href=\"#Nova\"><button><li>Nova<\/li><\/button><\/a><br>\n    <a href=\"#Dagobah\"><button>Dagobah<\/button><\/a>\n        <\/ul>\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <h2 id=\"Dantooine\">Dantooine<\/h2>\n        <p>A planet with few lifeforms, and was home to the Rebel Allience and the Resistance for a little bit. Dantooine is similar to Tatooine by both being fairly dry planets.<\/p>\n<a href=\"#TOP\"><button>Back to top<\/button><\/a>\n<br><br><br><br><br><br><br><br><br><br><br><br>\n        <h2 id=\"Nova\">Nova<\/h2>\n        <p>Facts about Nova will be slowly released as the fanfare book does. The only thing given by the author is that Nova is a warm planet near a super warm and bright star, though it has a lot of tropical-like food growing on it.<\/p>\n<a href=\"#TOP\"><button>Back to top<\/button><\/a>\n<br><br><br><br><br><br><br><br><br><br><br><br>\n<h2 id=\"Dagobah\">Dagobah<\/h2>\n<p>Dagobah out of the three planets is the most known planet in the Star Wars Universe. Dagobah is the one planets that has a strong power in the force similar to Ahch-To. It is a foggy, marshy/swamp planet that lived in exile for 22 years on. Dagobah is home to the cave, and creature that live in swamps.<\/p>\n<a href=\"#TOP\"><button>Back to top<\/button><\/a>\n    <\/body>\n<\/html>",
+                    "configVersion": 3,
+                    "created": "2018-08-27T21:22:56Z",
+                    "editorType": "ace_webpage",
+                    "folds": [],
+                    "hasAudio": false,
+                    "id": 5694639155707904,
+                    "kaid": "kaid_862703415184077457346988",
+                    "kind": "ScratchpadRevision",
+                    "mp3Url": null,
+                    "playback": "",
+                    "tests": null,
+                    "translatedMp3Url": null,
+                    "translatedMp3Urls": null,
+                    "userKey": "ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvMzlhODFjYmRjYmYzNGIyMmEzMTNiNDEwYjkxY2Y3ZjYM",
+                    "youtubeId": null
+                },
+                "rootScratchpadKey": "ag5zfmtoYW4tYWNhZGVteXIXCxIKU2NyYXRjaHBhZBiAgNCP5v2qCQw",
+                "searchKind": "Program",
+                "sendToPeers": false,
+                "slug": "spin-off-of-project-travel-webpage",
+                "sortIndex": -1,
+                "spinoffCount": 0,
+                "sumVotesIncremented": 9,
+                "tags": [],
+                "tests": "",
+                "thumbnailUrls": {},
+                "title": "Spin-off of \"Project: Travel webpage\"",
+                "topicIds": ["x45aed616", "xae5108e8", "x7441c73b", "xffde7c31"],
+                "topicUrlPath": "/computer-programming",
+                "translatedDescription": "",
+                "translatedNextSteps": null,
+                "translatedProjectEval": null,
+                "translatedProjectEvalTips": null,
+                "translatedTitle": "Spin-off of \"Project: Travel webpage\"",
+                "trustedRevision": null,
+                "type": "scratchpad",
+                "uniqueEnough": true,
+                "url": "https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/5396058140606464",
+                "userAuthoredContentType": "webpage",
+                "userId": "http://id.khanacademy.org/39a81cbdcbf34b22a313b410b91cf7f6",
+                "userKey": "ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvMzlhODFjYmRjYmYzNGIyMmEzMTNiNDEwYjkxY2Y3ZjYM",
+                "userStatus": 10,
+                "userVisibleDeleted": null,
+                "userVisibleFlaggedBy": null,
+                "userVisibleRevision": {
+                    "code": "<!DOCTYPE html>\n<html>\n    <head>\n        <meta charset=\"utf-8\">\n        <title>Star Wars: Episode 9 Planet List!<\/title>\n        <style>\n            body{\n                background-color:rgb(0, 0, 0);\n                color:yellow;\n                text-shadow: 0px 0px 20px yellow;\n            }\n        <\/style>\n    <\/head>\n    <body>\n    \n        <h1>Travel to Star Wars:Episode 9<\/h1>\n        \n        <h2>Planets to visit:<\/h2>\n        <ul>\n<a href=\"#Dantooine\"><li><button>Dantooine<\/button><\/li><\/a>        <a href=\"#Nova\"><button><li>Nova<\/li><\/button><\/a><br>\n    <a href=\"#Dagobah\"><button>Dagobah<\/button><\/a>\n        <\/ul>\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <img src=\"https://www.kasandbox.org/programming-images/cute/Star.png\">\n        <h2 id=\"Dantooine\">Dantooine<\/h2>\n        <p>A planet with few lifeforms, and was home to the Rebel Allience and the Resistance for a little bit. Dantooine is similar to Tatooine by both being fairly dry planets.<\/p>\n<a href=\"#TOP\"><button>Back to top<\/button><\/a>\n<br><br><br><br><br><br><br><br><br><br><br><br>\n        <h2 id=\"Nova\">Nova<\/h2>\n        <p>Facts about Nova will be slowly released as the fanfare book does. The only thing given by the author is that Nova is a warm planet near a super warm and bright star, though it has a lot of tropical-like food growing on it.<\/p>\n<a href=\"#TOP\"><button>Back to top<\/button><\/a>\n<br><br><br><br><br><br><br><br><br><br><br><br>\n<h2 id=\"Dagobah\">Dagobah<\/h2>\n<p>Dagobah out of the three planets is the most known planet in the Star Wars Universe. Dagobah is the one planets that has a strong power in the force similar to Ahch-To. It is a foggy, marshy/swamp planet that lived in exile for 22 years on. Dagobah is home to the cave, and creature that live in swamps.<\/p>\n<a href=\"#TOP\"><button>Back to top<\/button><\/a>\n    <\/body>\n<\/html>",
+                    "configVersion": 3,
+                    "created": "2018-08-27T21:22:56Z",
+                    "editorType": "ace_webpage",
+                    "folds": [],
+                    "hasAudio": false,
+                    "id": 5694639155707904,
+                    "mp3Url": null,
+                    "playback": "",
+                    "tests": null,
+                    "translatedMp3Url": null,
+                    "youtubeId": null
+                },
+                "userVisibleTrustedRevision": null,
+                "width": 400,
+                "youtubeId": null
+            },
+            "topic": {
+                "authorKey": "ag5zfmtoYW4tYWNhZGVteXJaCxIIVXNlckRhdGEiTHVzZXJfaWRfa2V5X2h0dHA6Ly9ub3VzZXJpZC5raGFuYWNhZGVteS5vcmcvNGFkNTZkNzFhYjlmOGM2ZjIzZmJjMGI1YzIxNDNiZWIM",
+                "backgroundImageCaption": "",
+                "backgroundImageUrl": "",
+                "backupTimestamp": "2013-09-06T16:25:14Z",
+                "brandingImageUrl": "",
+                "childData": [{
+                    "id": "x05187c3c",
+                    "kind": "Topic"
+                }, {
+                    "id": "x7441c73b",
+                    "kind": "Topic"
+                }, {
+                    "id": "xcffdaa1f",
+                    "kind": "Topic"
+                }, {
+                    "id": "x89af0e82",
+                    "kind": "Topic"
+                }, {
+                    "id": "xc9115e5d",
+                    "kind": "Topic"
+                }, {
+                    "id": "xb254f8dc",
+                    "kind": "Topic"
+                }, {
+                    "id": "x7d10e7ab",
+                    "kind": "Topic"
+                }, {
+                    "id": "x076d758b321a30f5",
+                    "kind": "Topic"
+                }, {
+                    "id": "xf409033d",
+                    "kind": "Topic"
+                }, {
+                    "id": "x5e3717e0",
+                    "kind": "Topic"
+                }, {
+                    "id": "xf9c6be8d",
+                    "kind": "Topic"
+                }, {
+                    "id": "x76ccd5a5",
+                    "kind": "Topic"
+                }, {
+                    "id": "x3dea311d",
+                    "kind": "Topic"
+                }],
+                "conceptTags": [],
+                "contentId": "xffde7c31",
+                "contentKind": "Topic",
+                "creationDate": "2021-03-08T22:39:41Z",
+                "curation": {
+                    "blacklist": ["Topic:xf409033d", "Topic:x5e3717e0", "Topic:xf9c6be8d", "Topic:x76ccd5a5", "Topic:x3dea311d", "Topic:xde9be2087fa2350c"],
+                    "hideRecommended": true,
+                    "modules": [{
+                        "actions": [{
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "New JavaScript Program",
+                            "url": "/computer-programming/new/pjs"
+                        }, {
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "New webpage",
+                            "url": "/computer-programming/new/webpage"
+                        }, {
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "New SQL Script",
+                            "url": "/computer-programming/new/sql"
+                        }],
+                        "kind": "ActionList",
+                        "title": "Create a new program"
+                    }, {
+                        "callToAction": "Meet the professionals",
+                        "description": "Meet a professional - everyone from mobile health app developers to product managers to physics programmers. Learn how they got into the industry, what they do for their job, what they do for fun, and what advice they have for you.",
+                        "kind": "SubjectIntro",
+                        "link": "Video:x2c143ebd",
+                        "title": "What can you do with a career in computing?"
+                    }, {
+                        "actions": [{
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "Help requests",
+                            "url": "/computing/computer-programming/projectfeedback"
+                        }, {
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "Community questions",
+                            "url": "/computing/computer-programming/d"
+                        }],
+                        "kind": "ActionList",
+                        "title": "Community"
+                    }, {
+                        "kind": "BrowseProjects"
+                    }, {
+                        "actions": [{
+                            "contentDescriptor": "Topic:x301707a0",
+                            "text": "Computer Science",
+                            "url": "/computing/computer-science"
+                        }, {
+                            "contentDescriptor": "Topic:x54f76d4b",
+                            "text": "Hour of Code",
+                            "url": "/computing/hour-of-code"
+                        }, {
+                            "contentDescriptor": "Topic:x9efc9f4b",
+                            "text": "Pixar in a Box",
+                            "url": "/partner-content/pixar"
+                        }],
+                        "kind": "ActionList",
+                        "title": "Learn More Computing"
+                    }]
+                },
+                "currentRevisionKey": "c578b9ab79564f5d7a6ada57cd094f1b0d1fccda",
+                "curriculumKey": null,
+                "customDescriptionTag": "",
+                "customTitleTag": "",
+                "dateModified": "2021-03-08T22:40:54Z",
+                "deleted": false,
+                "deletedModTime": "2013-07-21T23:11:34Z",
+                "description": "Learn how to program drawings, animations, and games using JavaScript & ProcessingJS, or learn how to create webpages with HTML & CSS. You can share whatever you create, explore what others have created and learn from each other!",
+                "doNotPublish": false,
+                "domainSlug": "computing",
+                "enableFpmMastery": false,
+                "endorsement": null,
+                "extendedSlug": "computing/computer-programming",
+                "facebookUrl": "",
+                "gplusUrl": "",
+                "hasPeerReviewedProjects": true,
+                "hasTopicQuiz": false,
+                "hasTopicUnitTest": false,
+                "hasUserAuthoredContentTypes": true,
+                "hide": false,
+                "iconSrc": "",
+                "id": "xffde7c31",
+                "importable": true,
+                "importedFromSha": null,
+                "inKnowledgeMap": false,
+                "inTopicBrowser": true,
+                "kaUrl": "https://www.khanacademy.org/computing/computer-programming",
+                "kind": "Topic",
+                "listed": true,
+                "listedLocales": ["fr", "bg", "pt", "sr", "bn", "de", "ko", "it", "da", "tr", "nb", "pl", "he"],
+                "logoImageUrl": "",
+                "lowerToc": false,
+                "nodeSlug": "computer-programming",
+                "oldKeyName": null,
+                "relativeUrl": "/computing/computer-programming",
+                "renderType": "Subject",
+                "sha": "c578b9ab79564f5d7a6ada57cd094f1b0d1fccda",
+                "showTopicsModule": false,
+                "slug": "computer-programming",
+                "sourceLanguage": "en",
+                "sponsored": false,
+                "standaloneTitle": "Computer programming",
+                "tags": [],
+                "title": "Computer programming",
+                "topicPageUrl": "/computing/computer-programming",
+                "translatedCuration": {
+                    "blacklist": ["Topic:xf409033d", "Topic:x5e3717e0", "Topic:xf9c6be8d", "Topic:x76ccd5a5", "Topic:x3dea311d", "Topic:xde9be2087fa2350c"],
+                    "hideRecommended": true,
+                    "modules": [{
+                        "actions": [{
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "New JavaScript Program",
+                            "url": "/computer-programming/new/pjs"
+                        }, {
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "New webpage",
+                            "url": "/computer-programming/new/webpage"
+                        }, {
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "New SQL Script",
+                            "url": "/computer-programming/new/sql"
+                        }],
+                        "kind": "ActionList",
+                        "title": "Create a new program"
+                    }, {
+                        "callToAction": "Meet the professionals",
+                        "description": "Meet a professional - everyone from mobile health app developers to product managers to physics programmers. Learn how they got into the industry, what they do for their job, what they do for fun, and what advice they have for you.",
+                        "kind": "SubjectIntro",
+                        "link": "Video:x2c143ebd",
+                        "title": "What can you do with a career in computing?"
+                    }, {
+                        "actions": [{
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "Help requests",
+                            "url": "/computing/computer-programming/projectfeedback"
+                        }, {
+                            "contentDescriptor": "Topic:xffde7c31",
+                            "text": "Community questions",
+                            "url": "/computing/computer-programming/d"
+                        }],
+                        "kind": "ActionList",
+                        "title": "Community"
+                    }, {
+                        "kind": "BrowseProjects"
+                    }, {
+                        "actions": [{
+                            "contentDescriptor": "Topic:x301707a0",
+                            "text": "Computer Science",
+                            "url": "/computing/computer-science"
+                        }, {
+                            "contentDescriptor": "Topic:x54f76d4b",
+                            "text": "Hour of Code",
+                            "url": "/computing/hour-of-code"
+                        }, {
+                            "contentDescriptor": "Topic:x9efc9f4b",
+                            "text": "Pixar in a Box",
+                            "url": "/partner-content/pixar"
+                        }],
+                        "kind": "ActionList",
+                        "title": "Learn More Computing"
+                    }]
+                },
+                "translatedCustomDescriptionTag": "",
+                "translatedCustomTitleTag": "",
+                "translatedDescription": "Learn how to program drawings, animations, and games using JavaScript & ProcessingJS, or learn how to create webpages with HTML & CSS. You can share whatever you create, explore what others have created and learn from each other!",
+                "translatedStandaloneTitle": "Computer programming",
+                "translatedTitle": "Computer programming",
+                "twitterUrl": "",
+                "userAuthoredContentTypes": ["pjs", "sql", "webpage"],
+                "userAuthoredContentTypesInfo": [{
+                    "new": "New program",
+                    "type": "pjs"
+                }, {
+                    "new": "New SQL script",
+                    "type": "sql"
+                }, {
+                    "new": "New webpage",
+                    "type": "webpage"
+                }],
+                "webUrl": "",
+                "xPos": 0.0,
+                "yPos": 0.0
+            }
+        },
+        "styleClassNames": []
+    }
+    </script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/corelibs-legacy.a77dca447abe9e6aad06.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/react-components.30014daf2a48d79de9ea.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/bibliotron.784e7dffa01dcb114e36.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/3fa99068de23e9956e10785c83deca6d.518069f2b1ea7e2e3cac.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/6c98beed6f94de1ab75fd6dbbbc4b8c1.e3a2f6c3c2633e64ce2d.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/e6e6df90cf7ce0a53f96a4f21018d264.c03b49db2d63aa566a98.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/f880658d8f5ee1baed51913a06522ab7.3219874537cc3ca5a821.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/dcb381b02fd33eb3aa7048c1375a8b5a.1bfca8bacb2d89d18903.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/485d9ae7aceb34ceac132431cb390b6d.6f1114186a397e9a5d25.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/b5197d29481962b4afd67dcb8c2bf5f3.3a373a0c1518d910176f.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/8466e70e5174ab4d5717aac954b07ff0.8dc5c29fe7d3b9731b05.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/ad17738b0df27fe29c6d07b6ee9a6932.b12383cbc9a11b27575e.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/dd44ea79b304066e99870eeffc423dcf.361e3c780381f45cf11f.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/ae6fcf73a7ffb61f86391900274b573c.d23f90f1d4485ff2eed7.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/f410d2a7105edf24ee2a217deb2a5bbd.07a6db1db1fd45624320.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/00f8016185ae781413e66158eab4e8d9.32796d2f9145911b9b6f.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/6268a1438d831f0c24f5435a9d80cbcd.0011bf9a75437cbc04e4.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/d82bb919bf587dbc56e367de5f5928dc.3cced8c3eec966910d84.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/120b50f449bf86f401308d1f54e870f3.ac26d96c62aaaf5c618d.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/deef5ba92f6d82168e4b25e14c915394.52cf0da2c6cdc5f8c29d.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/e60a1775e2419faf5a23f8bb4ac8d007.013b52728126a0be5d69.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/479b924d3ff650665badc5c76dfde34c.a9a268db981e367319b5.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/a6d81ae92616ec69fea3321dd29cf0a8.754dab6a059cb7960bec.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/7eee3138f2bbd6e5ab31c48e9ba024c9.9197db0c8d1c9ee0caf6.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/b4ab5213fa58eedc168e27aa1c3790c8.5417a97bcc33464b3607.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/acc4f1c5fc4ceab9f7773e7eb0fa8141.e065cb9ced6f2bd4f8b3.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/e60cccc4db8191ee403aa59bad69e12d.49f8f2288d890b93a2d2.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/6b975a023a463c3344698fd7684dc3d8.b5ea89d3cfb2fb5e7511.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/3137d0d06ea8ef65b3dbd71bed1d65ff.58ac4e84a6e0bb7945c6.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/59f7528d800727c3492f7993a9de77db.2edc6f9ccfe03a8fe4fc.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/875f0d644ab369028394d58d220ee06f.0fb1d3207edf7d0144d8.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/0b039feff33f8e65891c082ff88ea130.eacec39273094f417ade.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/b45d75f95aaa5af6a0175ae5692ae1c9.930f4df44d0c44d27086.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/ada9f8b8dde28d72eca19b42b1646c57.4fca8b65a18683b06c0e.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/51616a5976d657a4aae62dd58d51a130.4f96646fae6cbb22f075.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/3bae5fa8ee5dbf28ead2ee0c02e0e68f.77fd66c2ee39209cf860.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/0d4322163c7ed2d2c376978a8c7bac46.032d9b7cf4f861fb5729.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/10d0718841fb619598215f14ad13f443.bca9b23ff47bdacc4dd8.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/09851e890700f744b62aa26d55dffa35.3b3bc0efe5632bcde24a.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/306e3f4e41ba202ccc58ff3745fdc733.e0dfe5f3e643686413e3.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/c1fdb486c204af9edf905e0a2a190762.868e0fc331c5f92c693c.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/48391a255c2ff69bfc13aa76d24c1e60.a9f76bea2a95b47ab2ed.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/d2d956a9d26c34a2a8904cf9f1d0197e.16b267842eb51e412409.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/tutorial-scratchpad-package/scratchpad-page-entry.91efc690e5f988ea26b6.js'></script>
+    <script>
+    window["./javascript/page-package/header-entry.js"] = {
+        "dataCache": null,
+        "initialState": null,
+        "isRehydrate": false,
+        "props": {
+            "backgroundColor": "darkBlue"
+        },
+        "styleClassNames": []
+    }
+    </script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/app-shell-package/app-entry~./javascript/bigbingo-dashboard-package/bigbingo-dashboard-~1765c64e.57465dc47bce8f877eda.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/app-shell-package/app-entry~./javascript/page-package/header-entry.e0047055462c0ad00ae4.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/page-package/header-entry.00a50dea06b0e6b09e77.js'></script>
+
+
+
+<!--------------------------------------------->
+
+<script src="https://www.khanacademy.org/cs/i/5142027919376384embed.js?editor=yes&buttons=yes&author=no"></script>
+
+
+
+<!--------------------------------------------->
+
+
+
+
+    <div id="live-editor-output"></div>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/runtime.ce354dc5038657eba58b.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/corelibs.7abb5c370bb1f53c8598.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/corelibs-legacy.a77dca447abe9e6aad06.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/shared-intl.8c5a65b12b5272b3d8e4.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/shared.2ee584ede902f28c2a85.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/3fa99068de23e9956e10785c83deca6d.518069f2b1ea7e2e3cac.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/vendors~./javascript/about-package/internet-essentials-entry~./javascript/app-shell-package/app-entr~a9f8d42f.9388a7c3adf894bde5d2.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/1dc16803c489ac79786951b2f0f75a77.9fc9c145222103ce6631.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/vendors~./javascript/scratchpads-package/exec-pjs-entry~./javascript/scratchpads-package/exec-sql-en~0d9c09dd.b2aa58b941c7a73cf187.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/82c162b412f223c10eed81c2bd4fee8a.391e3385ad770c9e4398.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/scratchpads-package/exec-webpage-entry.d456e20ac1f364cbd58b.js'></script>
+
+
+
+
+
+
+    <div id="live-editor-output"></div>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/runtime.ce354dc5038657eba58b.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/corelibs.7abb5c370bb1f53c8598.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/corelibs-legacy.a77dca447abe9e6aad06.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/shared-intl.8c5a65b12b5272b3d8e4.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/shared.2ee584ede902f28c2a85.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/3fa99068de23e9956e10785c83deca6d.518069f2b1ea7e2e3cac.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/vendors~./javascript/about-package/internet-essentials-entry~./javascript/app-shell-package/app-entr~a9f8d42f.9388a7c3adf894bde5d2.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/1dc16803c489ac79786951b2f0f75a77.9fc9c145222103ce6631.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/vendors~./javascript/scratchpads-package/exec-pjs-entry~./javascript/scratchpads-package/exec-sql-en~0d9c09dd.b2aa58b941c7a73cf187.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/82c162b412f223c10eed81c2bd4fee8a.391e3385ad770c9e4398.js'></script>
+    <script defer crossorigin='anonymous' src='https://cdn.kastatic.org/genwebpack/prod/en/javascript/scratchpads-package/exec-webpage-entry.d456e20ac1f364cbd58b.js'></script>
+</body>
+
+</html>
+
